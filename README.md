@@ -1,10 +1,4 @@
-# AmitPatni_04-07-17
-Zycus - Java Assignment
+# AmitPatni
+DigiPlusIT - Products App Assignment Using Angualar2
 
-Implement a Map, which spills on to disk when it exceeds the heap, or a specified limit.
-
-o Time Complexity should be same as Current NavigableMap implementations (eg:TreeMap)
-o Should be capable of handling in a multithreaded environment.
-o put() and get() operations, should be Thread Safe.
-o Should be Serializable to disk
-o Should provide API level Tuning configurations, Where ever applicable.
+Develop an small application in Angular JS that shows product groups and list of products in that group when clicked on it. (e.g. Group ‘Electronics’, on click shows ‘TV’, ‘Laptop’ etc. with image and good UI
